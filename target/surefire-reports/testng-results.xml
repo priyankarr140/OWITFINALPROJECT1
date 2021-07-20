@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-20T06:06:37Z" name="Suite" finished-at="2021-07-20T06:06:59Z" duration-ms="21580">
+    <groups>
+    </groups>
+    <test started-at="2021-07-20T06:06:37Z" name="Test" finished-at="2021-07-20T06:06:59Z" duration-ms="21580">
+      <class name="Automation.Batch3FinalProject.LoginTest">
+        <test-method signature="navigation(java.lang.String, java.lang.String)[pri:0, instance:Automation.Batch3FinalProject.LoginTest@a53bb6f]" started-at="2021-07-20T06:06:37Z" name="navigation" data-provider="getData" finished-at="2021-07-20T06:06:46Z" duration-ms="8830" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[priyankarr140]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method signature="navigation(java.lang.String, java.lang.String)[pri:0, instance:Automation.Batch3FinalProject.LoginTest@a53bb6f]" started-at="2021-07-20T06:06:47Z" name="navigation" data-provider="getData" finished-at="2021-07-20T06:06:58Z" duration-ms="11484" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+      </class> <!-- Automation.Batch3FinalProject.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
